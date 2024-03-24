@@ -1,4 +1,4 @@
-#Jump Knight
+# Jump Knight
 
 ## Objective
 - Jump between the pipes as much as you can, survive, and rack up the most points.
